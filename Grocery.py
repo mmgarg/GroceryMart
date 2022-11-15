@@ -14,7 +14,7 @@ root.configure(background='green')
 Tops = Frame(root,bg='light green',bd=20,pady=5,relief=RIDGE)
 Tops.pack(side=TOP)
 
-lblTitle=Label(Tops,font=('New times roman',60,'bold'),text='AKSHITA GENERAL MART',bd=21,bg='black',
+lblTitle=Label(Tops,font=('New times roman',60,'bold'),text='MADAN GENERAL MART',bd=21,bg='black',
                 fg='cyan',justify=CENTER)
 lblTitle.grid(row=0)
 
@@ -675,7 +675,7 @@ for val in data:
 
 frame1=Frame(name_F)
 frame1.pack()
-name=Label(frame1,font=('new times roman',12,'bold'),text='PRESENTED BY AKSHITA SHUKLA',bg='light green',bd=7,
+name=Label(frame1,font=('new times roman',12,'bold'),text='PRESENTED BY Madanmohan Garg',bg='light green',bd=7,
                 fg='black',justify=LEFT)
 name.grid(row=0,column=0,sticky=W)
 
